@@ -29,6 +29,7 @@ public class TagRegistry {
             DoubleTag.TAG_TYPE,
             ByteArrayTag.TAG_TYPE,
             StringTag.TAG_TYPE,
-            ListTag.TAG_TYPE
+            ListTag.TAG_TYPE,
+            CompoundTag.TAG_TYPE
     };
 }
